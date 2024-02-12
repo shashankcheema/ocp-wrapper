@@ -11,6 +11,8 @@ Custom Scripts/Tools Integration	Highly customizable with support for integratin
 Usability with OCP	Seamless integration with OCP, offering detailed monitoring and visualization tools tailored for containerized environments.	Effective in monitoring containerized environments with automated discovery and monitoring of microservices in OCP.
 Ease of Use	User-friendly interface, but may require more initial setup and tuning.	Known for its ease of use and minimal configuration, especially in dynamic and complex environments.
 
+Datadog tends to offer more in terms of customizability and detailed metrics analysis, while Instana focuses more on automation, ease of use, and real-time insights, particularly in microservices architectures.
+
 
 Currently, there is no established monitoring system for our batch models; monitoring and addressing issues is a manual process.
 
